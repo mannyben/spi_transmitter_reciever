@@ -6,3 +6,6 @@ Configured with an asychronus reset. <br />
 Includes separate testbench files used to verify proper operation. <br />
 Meant to be programmed into PLDs using Synplify and Diamond by Lattice Semiconductor. <br /> 
 
+BLOCK REPRESENTATION: <br /> 
+
+![](images/spi.PNG)
